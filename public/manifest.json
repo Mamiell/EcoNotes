@@ -1,25 +1,24 @@
 {
+  "id": "/",
+  "name": "EcoNotes – Sustainable Notes",
   "short_name": "EcoNotes",
-  "name": "EcoNotes: Sustainable Notes",
+  "description": "A minimalist note-taking app with eco-friendly reminders and gamified sustainability tasks.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#10b981",
+  "background_color": "#ffffff",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
       "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
       "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "type": "image/png"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#10b981",
-  "background_color": "#ffffff"
+  ]
 }
